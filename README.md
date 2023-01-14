@@ -47,6 +47,7 @@
 [<img align="left" alt="Javascript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" />][webdev]
 [<img align="left" alt="Vue.js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558" />][webdev]
 [<img align="left" alt="Laravel" width="30px" src="https://laravel.com/img/logomark.min.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Laravel" width="30px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
