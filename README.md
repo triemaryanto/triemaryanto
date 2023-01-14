@@ -36,8 +36,8 @@
    - Monitor student progress
    - Provide reports on teaching activities at school to the school
 #### 4. [Magis Cinematography](https://www.instagram.com/explore/tags/magiscinematography/?hl=en) | Graphic Designer | Sumedang ` 2016 - 2017`
-   - Taking pictures at weddings
-   - Edit wedding and pre-wedding photos
+   - Taking pictures at weddings and pre-weedding
+   - Edit Photos wedding and pre-wedding
 ---
 
 ### Languages and Tools:
