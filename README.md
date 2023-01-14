@@ -14,7 +14,7 @@
  #### 2. [SMA N YOS SUDARSO MAJENANG - CILACAP](https://web.facebook.com/smayosma/?_rdc=1&_rdr) | IPA | Majenang `2009-2012`
 
 ## Work Experience:
-#### 1. [KSP DIAN MANDIRI](https://www.huawei.com) | IT SUPPORT & IT PROGRAMMER | Tangerang `2019'April - Now`
+#### 1. [KSP DIAN MANDIRI](https://www.dianmandiri.id) | IT SUPPORT & IT PROGRAMMER | Tangerang `2019'April - Now`
    - Support the IT needs of all employees both Hardware and Software
    - Support maintain all IT assets Management
    - Perform system monitoring and maintenance
@@ -24,10 +24,20 @@
    - Take multimedia with equipment such as DSLR / Mirrorless Camera
    - Operate Live streaming with OBS Studio
    - Make Program/Aplication with language : PHP Native, HTML, CSS, JAVASCRIPT, Vue.JS, Laravel 8 And Database server : Mysql
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 2. [KSP DIAN MANDIRI](https://www.dianmandiri.id) | Marketing | Bandung `2018-2019`
+   - Offer loan products to prospective customers
+   - Provide basic training education about cooperatives
+   - Bill and ensure there are no arrears
+   - Make daily reports on customer payments
+#### 3. [SMK AL-BARKAH KOTA BANJAR](https://web.facebook.com/smkalbarakahkotabanjar/?_rdc=1&_rdr) | ADMINISTRATIVE STAFF AND MULTIMEDIA TEACHERS | Bandung `2017-2018`
+   - Management and archiving incoming and outgoing mail
+   - Arrangement of administrative staff tasks and other technical personnel
+   - Prepare teaching materials according to qualifications
+   - Monitor student progress
+   - Provide reports on teaching activities at school to the school
+#### 4. [Magis Cinematography](https://www.instagram.com/explore/tags/magiscinematography/?hl=en) | Graphic Designer | Sumedang ` 2016 - 2017`
+   - Taking pictures at weddings
+   - Edit wedding and pre-wedding photos
 ---
 
 ### Languages and Tools:
