@@ -1,26 +1,29 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Tri Maryanto👋
 ## About me:
-- 🔭 I’m currently working at [Huawei](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
+- 🔭 I’m currently working at [KSP DIAN MANDIRI](https://www.dianmandiri.id)
+- 🌱 I’m currently learning PHP, javascript, HTML, CSS, Vue.js, Laravel 8, Boostrap, Mysql
+- 👯 I’m looking to collaborate as IT Programmer especially in laravel and vue.js
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: triemaryanto93@gmail.com, Whatsapp / Telp : 085157392291
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+#### 1. [STMIK SUMEDANG](https://fti.unsap.ac.id/) | Bachelor of Information Technology | Sumedang `2012-2016`
+   - GPA 2.88
+   
+ #### 2. [SMA N YOS SUDARSO MAJENANG - CILACAP](https://web.facebook.com/smayosma/?_rdc=1&_rdr) | IPA | Majenang `2009-2012`
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
+#### 1. [KSP DIAN MANDIRI](https://www.huawei.com) | IT SUPPORT & IT PROGRAMMER | Tangerang `2019'April - Now`
+   - Support the IT needs of all employees both Hardware and Software
+   - Support maintain all IT assets Management
+   - Perform system monitoring and maintenance
+   - Hands on the installation of computer equipment and software
+   - Handling troubleshoot in networking 
+   - Make design software and technologies(such as Adobe Photoshop, Adobe Premiere, Coreldraw)
+   - Take multimedia with equipment such as DSLR / Mirrorless Camera
+   - Operate Live streaming with OBS Studio
+   - Make Program/Aplication with language : PHP Native, HTML, CSS, JAVASCRIPT, Vue.JS, Laravel 8 And Database server : Mysql
 #### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
    - Manage to update CAD of distribution lines using AutoCAD
    - Manage to recap fault in distribution network
