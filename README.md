@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning PHP, javascript, HTML, CSS, Vue.js, Laravel 8, Boostrap, Mysql
 - 👯 I’m looking to collaborate as IT Programmer especially in laravel and vue.js
 - 💬 Ask me about anything
-- 📫 How to reach me: triemaryanto93@gmail.com, Whatsapp / Telp : [085157292291](https://wa.me/085157392291)
+- 📫 How to reach me: triemaryanto93@gmail.com, Whatsapp / Telp : [085157392291](https://wa.me/085157392291)
 
 ## Education:
 
@@ -29,7 +29,7 @@
    - Provide basic training education about cooperatives
    - Bill and ensure there are no arrears
    - Make daily reports on customer payments
-#### 3. [SMK AL-BARKAH KOTA BANJAR](https://web.facebook.com/smkalbarakahkotabanjar/?_rdc=1&_rdr) | ADMINISTRATIVE STAFF AND MULTIMEDIA TEACHERS | Bandung `2017-2018`
+#### 3. [SMK AL-BARKAH KOTA BANJAR](https://web.facebook.com/smkalbarakahkotabanjar/?_rdc=1&_rdr) | ADMINISTRATIVE STAFF AND MULTIMEDIA TEACHERS | Banjar Patroman - Jawa Barat `2017-2018`
    - Management and archiving incoming and outgoing mail
    - Arrangement of administrative staff tasks and other technical personnel
    - Prepare teaching materials according to qualifications
