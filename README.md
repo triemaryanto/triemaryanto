@@ -26,22 +26,22 @@
    - Make Program/Aplication with language : PHP Native, HTML, CSS, JAVASCRIPT, Vue.JS, Laravel 8 And Database server : Mysql
 ### Project:
    1. [Aplication Doorprize Employment](https://github.com/triemaryanto/doorprize)
-   tools : PHP Native, Javascript, mysql
+    tools : PHP Native, Javascript, mysql
    - Lottery application for all
    - Report Winner
-   2.[Annual Member Meeting Attendance application V.1](https://github.com/triemaryanto/ratonline)
-   tools : PHP Native, Javascript, Mysql
+   2. [Annual Member Meeting Attendance application V.1](https://github.com/triemaryanto/ratonline)
+    tools : PHP Native, Javascript, Mysql
    - Management of attendance of members online
    - Report Attandance
    3. [Company Job Reference Application](https://github.com/triemaryanto/paklaring)
-   tools : Php Native, Javascript, mysql
+    tools : Php Native, Javascript, mysql
    - Report Reference Employes
    4. [Annual Member Meeting Attendance application V.2](https://github.com/triemaryanto/laravel_diksar)
-   tools : Laravel, Javascript, mysql
+    tools : Laravel, Javascript, mysql
    - Management of attendance of members online with ipaddress
    - Report Attandance
    5. [Company Coorporate](https://github.com/triemaryanto/dimancorporateyayasan) | OnProgress
-   tools : Vue.js, Laravel, Mysql
+    tools : Vue.js, Laravel, Mysql
    - data management to be introduced to the user
 #### 2. [KSP DIAN MANDIRI](https://www.dianmandiri.id) | Marketing | Bandung `2018-2019`
    - Offer loan products to prospective customers
