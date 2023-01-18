@@ -29,18 +29,18 @@
     tools : PHP Native, Javascript, mysql
    - Lottery application for all
    - Report Winner
-   2. [Annual Member Meeting Attendance application V.1](https://github.com/triemaryanto/ratonline)
+   2. [Aplikasi Absensi Anggota Koperasi V.1](https://github.com/triemaryanto/ratonline)
     tools : PHP Native, Javascript, Mysql
    - Management of attendance of members online
    - Report Attandance
-   3. [Company Job Reference Application](https://github.com/triemaryanto/paklaring)
+   3. [Aplikasi Barcode Surat Referensi kerja ](https://github.com/triemaryanto/paklaring)
     tools : Php Native, Javascript, mysql
    - Report Reference Employes
-   4. [Annual Member Meeting Attendance application V.2](https://github.com/triemaryanto/laravel_diksar)
+   4. [Aplikasi Absensi Anggota Koperasi V.2](https://github.com/triemaryanto/laravel_diksar)
     tools : Laravel, Javascript, mysql
    - Management of attendance of members online with ipaddress
    - Report Attandance
-   5. [Company Coorporate](https://github.com/triemaryanto/dimancorporateyayasan) | OnProgress
+   5. [Website Company Profile](https://github.com/triemaryanto/dimancorporateyayasan) | OnProgress
     tools : Vue.js, Laravel, Mysql
    - data management to be introduced to the user
 #### 2. [KSP DIAN MANDIRI](https://www.dianmandiri.id) | Marketing | Bandung `2018-2019`
