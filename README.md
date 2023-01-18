@@ -25,7 +25,7 @@
    - Operate Live streaming with OBS Studio
    - Make Program/Aplication with language : PHP Native, HTML, CSS, JAVASCRIPT, Vue.JS, Laravel 8 And Database server : Mysql
 ### Project:
-   1. [Aplication Doorprize Employment](https://github.com/triemaryanto/doorprize)
+   1. [Aplikasi Doorprize Karyawan](https://github.com/triemaryanto/doorprize)
     tools : PHP Native, Javascript, mysql
    - Lottery application for all
    - Report Winner
