@@ -14,7 +14,7 @@
  #### 2. [SMA N YOS SUDARSO MAJENANG - CILACAP](https://web.facebook.com/smayosma/?_rdc=1&_rdr) | IPA | Majenang `2009-2012`
 
 ## Work Experience:
-#### 1. [KSP DIAN MANDIRI](https://www.dianmandiri.id) | IT SUPPORT & IT PROGRAMMER | Tangerang `2019'April - Now`
+#### 1. [KSP DIAN MANDIRI](https://www.dianmandiri.id) | IT SUPPORT & IT PROGRAMMER | Tangerang `2019'April - 2023'Feb`
    - Support the IT needs of all employees both Hardware and Software
    - Support maintain all IT assets Management
    - Perform system monitoring and maintenance
