@@ -1,10 +1,10 @@
 # Hi there, I'm Tri Maryanto👋
 ## About me:
-- 🔭 I’m currently working at [DISKOMINFO Wonosobo](https://diskominfo.wonosobokab.go.id/)
+- 🔭 I’m currently working at [Diskominfo Wonosobo](https://diskominfo.wonosobokab.go.id/)
 - 🌱 I’m currently learning PHP, javascript, HTML, CSS, Vue.js, Laravel 8, Boostrap, Mysql
 - 👯 I’m looking to collaborate as IT Programmer especially in laravel and vue.js
 - 💬 Ask me about anything
-- 📫 How to reach me: triemaryanto93@gmail.com, Whatsapp / Telp : [085157392291](https://wa.me/085157392291)
+- 📫 How to reach me: triemaryanto93@gmail.com, Whatsapp / Telp : [085157392291](https://wa.me/6285157392291)
 
 ## Education:
 
